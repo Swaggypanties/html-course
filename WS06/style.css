@@ -1,0 +1,117 @@
+body{
+    background-color: rgba(92, 198, 224, 0.89);
+}
+.nav li a{
+    list-style-type: none;
+    text-decoration: none;
+    color: black;
+    padding-right: 10px;
+    position: relative;
+    font-size: 50px;
+
+}
+
+.header{
+    background-color:peachpuff;
+    font-family: monospace;
+    font-size: 100px;
+    margin: 0px;
+    margin-left: 230px;
+
+}
+nav{
+    float:left;
+  width: 195px;
+  background: peachpuff;
+  padding: 20px;
+  height: 1350px;
+  position: absolute;
+  margin: 0;
+
+
+}
+
+.image{
+    position: fixed;
+    z-index: 1;
+
+}
+footer{
+    background-color: peachpuff;
+    text-align: center;
+    font-size: 15px;
+    left: 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.gang{
+    margin-left: 500px;
+    width: 500px;
+    border: 10px;
+    border-style: groove;
+    border-color:peachpuff;
+    float: left;
+}
+.h4{
+    text-align: center;
+    font-size: 150px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.container{
+    align-items: center;
+    justify-content: center;
+}
+.para{
+    font-size: 50px;
+    padding-left: 1035px;
+}
+.list{
+    margin-left: 50px;
+    font-size: 40px;
+    background-color: peachpuff;
+    width: fit-content;
+    border-style: dotted;
+    padding-right: 10px;
+    padding-bottom: 10px;
+
+
+}
+.textst{
+    padding-left: 980px;
+}
+h4{
+    margin-block-end: 100px;
+}
+.navhoz ul{
+    list-style-type: none;
+}
+.navhoz li{
+    display: inline;
+}
+.navhoz{
+    background-color: peachpuff;
+    text-align: center;
+    margin: 0px;
+    font-size: 40px;
+    overflow: hidden;
+}
+a:hover{
+    color: red;
+}
+
+.progress{
+    border-style: groove;
+    
+}
+.navhoz1{
+    background-color: peachpuff;
+    text-align: center;
+    margin: 0px;
+    font-size: 40px;
+    overflow: hidden;
+}
+.u12{
+    list-style-type: none;
+
+}
